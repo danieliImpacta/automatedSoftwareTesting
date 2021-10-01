@@ -3,6 +3,8 @@
 
 ### Integrantes do grupo: 
 ##### Danieli Silva dos Santos
+##### Caique Centini
+##### Wagner Soares
 
 
 ## Atividade:
