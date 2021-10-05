@@ -1,36 +1,30 @@
-# RestAssured
-
 # ESD21 - Automated Software Testing
 
-### Aluna: 
+
+### Integrantes do grupo: 
 ##### Danieli Silva dos Santos
+##### Caique Centini
+##### Wagner Soares
+
 
 ## Atividade:
+Realizar a validação se uma frase ou palavra é palíndromo.
 
-- Escolha uma API para consumir, caso queira usar outra que não está na lista, pode mudar,
-desde que seja uma API pública
-- Crie um projeto com RestAssured e JUnit
-- Crie um teste de sucesso validando o http status code e o conteúdo retornado pela API com
-Assert
-- Crie um teste de falha validando o http status code com Assert
+#### Tecnologias utilizadas:::
+* JUnit
+* JDK 11
+* Java
 
-# Pré-requisitos:
-
-1. Plugin do Cucumber for Java
-2. Gherkin
-3. JDK 11
-
-# Como Executar:
-
-1. Execute a classe Runner com o testng
-2. Após a execução, no terminal, clique no link do relatório para visualizar detalhes dos testes executados:
-│ View your Cucumber Report at:                                            │
-│ https://reports.cucumber.io/reports/
+#### Pré-requisitos:::
+* Ter instalado JUnit
+* Ter instalado JDK 11
 
 
-# Construído com:
+#### Como Executar:::
+##### Como Executar Funcionalidade:
+* 1º - Execute a classe Palindromo;
+* 2º - Após a execução, no terminal, responda as perguntas e visualize os resultados.
 
-1. Cucumber (BDD)
-2. RestAssured
-3. cucumber-testng
-4. cucumber-junit
+##### Como Executar Testes Unitários:
+* 1º - Execute a classe testPalindromo;
+* 2º - Após a execução, no terminal, visualize os resultados.
